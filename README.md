@@ -32,3 +32,16 @@ Three MLS-system players:
 
 ## 📝 Notes
 This repository is part of my football analytics portfolio.
+## Article
+
+Read the full analysis on Substack:
+
+https://pitchops.substack.com/p/usa-vs-paraguay-a-41-win-that-looked
+
+## Key Findings
+- Matthew Freese helped build possession from the back.
+- Tim Ream provided progression and defensive stability.
+- Sebastian Berhalter contributed in both possession and chance creation.
+  
+## Visual
+![USMNT Analysis](Visuals/download.png)
