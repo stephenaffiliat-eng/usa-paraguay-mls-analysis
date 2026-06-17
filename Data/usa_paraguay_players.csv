@@ -1,0 +1,4 @@
+index,player,minutes,accurate_passes,total_passes,passes_opp_half_acc,passes_opp_half_total,passes_own_half_acc,passes_own_half_total,long_balls_acc,long_balls_total,recoveries,def_contributions,ground_duels_won,ground_duels_total,aerial_duels_won,aerial_duels_total,possession_lost,xG,xA,shots
+0,Matthew Freese,90,12,20,0,8,12,12,2,10,6,0,0,0,, ,8,0.0,0.0,0
+1,Tim Ream,90,84,90,38,43,46,47,7,9,5,6,2,2,3,1,7,0.0,0.03,0
+2,Sebastian Berhalter,45,20,28,10,17,10,11,, ,3,1,1,1,2,2,10,0.02,0.12,1
